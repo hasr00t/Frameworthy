@@ -56,8 +56,6 @@ About: SecurityTrails API can be used to search for domain, dns and IP related d
 URL: https://github.com/kpcyrd/sn0int
 About: sn0int is a semi-automatic OSINT framework and package manager. It's used by IT security professionals, bug bounty hunters, law enforcement agencies and in security awareness trainings to gather intelligence about a given target or about yourself. sn0int is enumerating attack surface by semi-automatically processing public information and mapping the results in a unified format for followup investigations.
 
-## Paid/Vendor OSINT Frameworks
-
 #### runZero
 URL: https://www.runzero.com/
 About: runZero is a network discovery and asset inventory platform that uncovers every network in use and identifies every device connected–without credentials.
@@ -124,10 +122,6 @@ SpiderFoot has an embedded web-server for providing a clean and intuitive web-ba
 URL: https://github.com/1N3/Sn1per
 https://sn1persecurity.com/wordpress/
 About: Discover hidden assets and vulnerabilities in your environment with Sn1per. It integrates with commercial and open source vulnerability scanners to scan for the latest vulnerabilities. It can save time by automating the execution of tools to discover weaknesses across an organizations infrastructure. 
-
-
-## Paid/Vendor Attack Surface Management Frameworks
-
 
 
 ## Misc
